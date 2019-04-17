@@ -1,4 +1,4 @@
-#Face-dataset-creator
+# Face-dataset-creator
 
 It's a face extractor from videos and images to create a dataset about face images
 
@@ -21,8 +21,10 @@ python3 face_generator.py --input_video feliz.mp4 --output ./datset --skip 10 --
 ## Results example
 Input a video or image folder -> get your face images, example:
 - Input
+
 ![](./docs/assets/me.gif)
 
 - Output
+
 ![](./docs/assets/output.png)
 
